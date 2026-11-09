@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base theme: Compose Material3 replaces this at runtime.
+         This entry is required so the manifest reference resolves at build time. -->
+    <style name="Theme.NexCore" parent="android:Theme.Material.NoTitleBar" />
+</resources>
